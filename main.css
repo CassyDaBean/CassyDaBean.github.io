@@ -3,8 +3,7 @@ html {
 }		
 body {
 	background-color: #030a0b;
-	color: #7ec7cc;
 }
-.highlightonly {
+highlight {
 	color: #b477d3;
 }
