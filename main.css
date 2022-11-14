@@ -27,7 +27,7 @@ body {
 .container {
 	
 	display: grid;
-	grid-template-columns: repeat(4,1fr);
+	grid-auto-flow: columbs;
 	grid-auto-rows: minmax(100px,auto);
 }
 .highlight {
