@@ -12,6 +12,7 @@ html {
 body {
 	background-color: #030a0b;
 	color: #98e0ea;
+	padding: 0.5rem;
 }
 
 .art-images{width: 50%;}
