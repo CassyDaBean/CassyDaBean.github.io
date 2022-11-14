@@ -14,7 +14,7 @@ body {
 	color: #98e0ea;
 }
 
-.art-images{width: 45%;}
+.art-images{width: 36%;}
 
 .art-images img {
 	
@@ -28,7 +28,7 @@ body {
 	
 	display: grid;
 	grid-template-columns: repeat(2,1fr 1fr);
-	grid-template-rows: repeat(2,1fr 1fr) ;
+	grid-auto-rows: minmax(150px, auto) ;
 }
 .highlight {
 	color: #b477d3;
