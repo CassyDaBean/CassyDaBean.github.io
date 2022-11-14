@@ -27,8 +27,8 @@ body {
 .container {
 	
 	display: grid;
-	grid-auto-flow: column;
-	/* grid-auto-rows: minmax(100px,1000px); */
+	grid-auto-columns: minmax(50px, auto);
+	grid-auto-rows: minmax(50px,500px);
 }
 .highlight {
 	color: #b477d3;
