@@ -14,7 +14,7 @@ body {
 	color: #98e0ea;
 }
 
-.art-images{width: 35%;}
+.art-images{width: 45%;}
 
 .art-images img {
 	
@@ -27,7 +27,7 @@ body {
 .container {
 	
 	display: grid;
-	grid-template-columns: 1fr;
+	grid-template-columns: 4fr;
 	grid-auto-rows: minmax(100px,auto);
 }
 .highlight {
@@ -36,7 +36,7 @@ body {
 .box {
 	background-color: #000;
 	color: #edb05d;
-	font-size: 2rem;
+	font-size: 1rem;
 	padding: 0.5rem;
 	
 	display: grid;
