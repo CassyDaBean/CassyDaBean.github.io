@@ -18,7 +18,7 @@ body {
 	font-family: 'Silkscreen', cursive;
 }
 
-.art-images{width: 100%;}
+/* .art-images{width: 100%;} */
 
 .art-images img {
 	
@@ -37,7 +37,7 @@ body {
 .cont{
 	
 	display: grid;
-	grid-auto-columns: minmax(150px, 500px);
+	grid-auto-flow: column;
 	grid-auto-rows: minmax(150px, auto) ;
 	
 }
