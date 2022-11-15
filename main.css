@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
 * {
 	margin: 0;
 	padding: 0;
@@ -15,11 +17,11 @@ body {
 	padding: 0.5rem;
 }
 
-.art-images{width: 50%;}
+.art-images{width: 35%;}
 
 .art-images img {
 	
-	width: auto;
+	width: 100%;
 	height: auto;
 	min-width: 50px;
 	border: 5px solid #434343;
